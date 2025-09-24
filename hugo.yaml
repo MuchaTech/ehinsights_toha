@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: bn
-title: "John's Blog"
+title: "Ehinsights Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -23,13 +23,9 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Ehinsights Blog"
     weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
+
 # default language for the content
 defaultContentLanguage: en
 
@@ -272,7 +268,7 @@ params:
 
     # Enable reading time support in post cards and in post pages
     readingTime:
-      enable: false
+      enable: true
     
     # Number of posts to show to each page. Default is "12"
     pagination:

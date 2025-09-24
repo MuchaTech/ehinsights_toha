@@ -16,13 +16,12 @@ buttons:
   filter: "professional"
 - name: Academic
   filter: "academic"
-- name: Hobby
-  filter: "hobby"
+
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
+- name: Core Environmental Consulting
+  logo: /images/sections/projects/stephan-louis-tFFRfIso4sE-unsplash.jpg.png
   role: Contributor
   timeline: "March 2018 - Present"
   repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -30,8 +29,8 @@ projects:
   summary: Production-Grade Container Scheduling and Management.
   tags: ["professional", "kubernetes", "cloud"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
+- name: Health, Safety & Environmental (HSE)
+  logo: /images/sections/projects/sheila-c-4Uz6oVz6deE-unsplash.jpg
   role: Developer
   timeline: "Jun 2018 - Present"
   repo: https://github.com/tensorflow/tensorflow
