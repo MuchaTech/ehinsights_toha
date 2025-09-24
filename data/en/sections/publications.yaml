@@ -3,7 +3,7 @@ section:
   name: Publications
   id: publications
   enable: true
-  weight: 6
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -23,42 +23,24 @@ buttons:
 
 # your publications
 publications:
-- title: An Example Paper on Machine Learning
+- title: Assessing technical aspects and vulnerabilities from Tswaing informal settlement in Hammanskraal
   publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
+    name: Jamba Journal of Disaster Risk Studies
+    date: 18 July 2025
+    url: https://doi.org/10.4102/jamba.v17i1.1890
   authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
+  - name: Langa NJ 
+  - name: Nkosi DV
+  - name: Mbola P
+  - name: Kgopa LS
+  - name: Mohlala S 
+  - name: Komane OM
+  - name: Ngwenya EP 
+  - name: Maleka ER 
+  - name: Mapheto DM 
+  - name: Mokwena TS 
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
-  categories: ["machinelearning","image-processing"]
-  tags: ["Machine Learning", "Autonomous Driving", "Computer Vision"]
-
-- title: An Sample Paper on Image Processing
-  publishedIn:
-    name: 2020 IEEE Region Symposium (TENSYMP)
-    date: 7 June 2020
-    url: https://example.com
-  authors:
-  - name: Dr. Madman
-    url: https://example.com
-  - name: Dr. Lessmad
-    url: https://example.com
-  - name: Dr. Moremad
-    url: https://example.com
-  - name: Dr. Goodman
-    url: https://example.com
-  paper:
-    summary: Ullamco magna minim cupidatat Lorem ea ex aliqua fugiat et. Dolor quis cillum ea duis irure et commodo aliquip consectetur ullamco labore ut anim nisi. Commodo reprehenderit est consectetur tempor adipisicing occaecat exercitation amet do aliquip dolor do irure. Labore officia ut magna pariatur reprehenderit et ex sit sunt. Magna proident ullamco adipisicing sit.
-    url: https://example.com
-  categories: ["image-processing"]
-  tags: ["Image Processing", "Computer Vision"]
+    summary: The increasing frequency of hazards such as floods, droughts, socio-political unrest, emerging diseases and rising temperatures has affected South Africa.
+    url: https://doi.org/10.4102/jamba.v17i1.1890
+  categories: ["research-journals"]
+  tags: ["Tshwane University of Technology", "Environmental Helath Science"]

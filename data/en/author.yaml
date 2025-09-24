@@ -1,17 +1,16 @@
 # some information about you
-name: "Jappie Langa"
+name: "Ehinsights"
 nickname: "Ehinsights"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, We're"
-image: "images/author/john.png"
+image: "images/author/ehinsights.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "work.jappielanga@gmail.com"
-  phone: ""
-  github: jappielang
-  linkedin: jappielanga
-  researchgate: ""
+  phone: "+27 82 891 6986"
+  linkedin: nchang-langa-284b912a2
+
 
 # some summary about what you do
 summary:
-  - We're young Environmental Health professionals
+  - We're young Environmental Health Professionals

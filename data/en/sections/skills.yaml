@@ -3,7 +3,7 @@ section:
   name: Skills
   id: skills
   enable: true
-  weight: 2
+  weight: 4
   showOnNavbar: true
   filter: true
   # Can optionally hide the title in sections
@@ -56,7 +56,7 @@ skills:
 
 
 - name: Health, Safety & Security (HSSE)
-  logo: /images/sections/skills/linux.png
+  logo: /images/sections/skills/scott-blake-BBQzXsbVnGs-unsplash.jpg
   summary: "Conduct thorough literature reviews, understand scientific journals, and synthesize information from various sources into a coherent summary."
   categories: ["projects"]
   url: ""
