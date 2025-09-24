@@ -14,7 +14,7 @@ command = "hugo mod tidy && hugo mod npm pack && npm install && hugo --gc --mini
 
     [context.split1.environment]
     HUGO_ENV     = "production"
-    HUGO_VERSION = "0.146.4"
+    HUGO_VERSION = "0.148.4"
     NODE_VERSION = "v23.11.0"
     NPM_VERSION  = "10.9.2"
 
