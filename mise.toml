@@ -1,7 +1,6 @@
 [tools]
 hugo-extended = '0.148.2'
 node = '24.6.0'
-go = '1.25.0'
 
 [tasks.install]
 description = "Install dependencies"
