@@ -104,7 +104,7 @@ params:
         facebook: true
         twitter: true
         linkedin: true
-        reddit: true
+        reddit: false
         whatsapp: true
         email: true
         # tumblr: true
