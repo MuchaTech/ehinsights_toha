@@ -69,6 +69,16 @@ badges:
   percentage: 85
   color: green
 
+- type: soft-skill-indicator
+  name: Excellence
+  percentage: 90
+  color: pink
+
+- type: soft-skill-indicator
+  name: Innovative
+  percentage: 85
+
+
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
