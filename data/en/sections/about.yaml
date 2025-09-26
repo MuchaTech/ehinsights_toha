@@ -77,6 +77,7 @@ badges:
 - type: soft-skill-indicator
   name: Innovative
   percentage: 85
+  color: blue
 
 
 # you can also provide color code instead of the color name
