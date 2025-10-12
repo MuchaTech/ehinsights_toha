@@ -1,8 +1,8 @@
 ---
-title: Top Category Sample
+title: category
 menu:
   sidebar:
-    name: Category
+    name: Environmental Health Topics
     identifier: category
     weight: 20
 ---

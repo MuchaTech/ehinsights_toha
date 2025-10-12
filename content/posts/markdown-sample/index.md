@@ -11,6 +11,7 @@ author:
   name: Jessica Jonas
   image: /images/author/jessica.png
 math: true
+draft: true
 ---
 
 This is a sample post intended to test the followings:
@@ -22,6 +23,7 @@ This is a sample post intended to test the followings:
 - Emoji rendering.
 
 ---
+
 # Markdown Syntax Rendering
 
 ## Headings
@@ -29,10 +31,15 @@ This is a sample post intended to test the followings:
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
 # H1
+
 ## H2
+
 ### H3
+
 #### H4
+
 ##### H5
+
 ###### H6
 
 ## Paragraph
@@ -55,7 +62,6 @@ The blockquote element represents content that is quoted from another source, op
 > Don't communicate by sharing memory, share memory by communicating.</p>
 > — <cite>Rob Pike[^1]</cite>
 
-
 [^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
 ## Tables
@@ -77,7 +83,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 
 #### Code block with backticks
 
-```
+```html
 html
 <!DOCTYPE html>
 <html lang="en">
@@ -90,8 +96,10 @@ html
 </body>
 </html>
 ```
+
 #### Code block indented with four spaces
 
+```html
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -102,8 +110,10 @@ html
       <p>Test</p>
     </body>
     </html>
+```
 
 #### Code block with Hugo's internal highlight shortcode
+
 {{< highlight html >}}
 <!DOCTYPE html>
 <html lang="en">
@@ -119,27 +129,27 @@ html
 
 ## List Types
 
-#### Ordered List
+### Ordered List
 
 1. First item
 2. Second item
 3. Third item
 
-#### Unordered List
+### Unordered List
 
-* List item
-* Another item
-* And another item
+- List item
+- Another item
+- And another item
 
-#### Nested list
+### Nested list
 
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
+- Fruit
+  - Apple
+  - Orange
+  - Banana
+- Dairy
+  - Milk
+  - Cheese
 
 ## Other Elements — abbr, sub, sup, kbd, mark
 
@@ -157,15 +167,11 @@ Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and ot
 
 ## Math Rendering
 
-{{< math.inline >}}
-<p>
 Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
-</p>
-{{</ math.inline >}}
 
 Block math:
 $$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
+ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
 $$
 
 ---

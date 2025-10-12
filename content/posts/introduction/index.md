@@ -9,6 +9,7 @@ menu:
     weight: 10
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
+draft: true
 ---
 
 Greeting! This is an introduction post. This post tests the followings:
