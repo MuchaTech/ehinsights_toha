@@ -9,7 +9,7 @@ menu:
     weight: 40
 hero: boat.jpg
 mermaid: true
-draft: true
+draft: false
 ---
 
 This is a sample post intended to test the followings:
